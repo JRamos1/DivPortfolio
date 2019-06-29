@@ -1,4 +1,4 @@
-node_modules
 process.env
 .env
 config.json
+node_modules

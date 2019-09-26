@@ -9,7 +9,7 @@ import SignInPage from "./pages/SignInPage"
 import WatchlistPage from "./pages/Watchlist"
 function App() {
   return (
-   
+
     <Router>
       <div>
         <Switch>
